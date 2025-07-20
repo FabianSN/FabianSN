@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @FabianSN
-- 👀 I’m interested in HTML + CSS + Javascript + ¿?
-- 🌱 I’m currently learning Javascript + Github
-- 💞️ I’m looking to collaborate on a game project that I like to play
-- 📫 How to reach me ...
+- 👋 Hola, yo soy @FabianSN
+- 👀 Estoy interesado en la programacion de videojuegos en Godot
+- 🌱 Actualmente aprendiendo a usar Github
+- 📫 Pueden tambien encontrarme en https://www.instagram.com/fabiansn2016/
 
 <!---
 FabianSN/FabianSN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
